@@ -5,7 +5,7 @@ O documento tem como finalidade a especificação do cenário envolvendo o proce
 ## Cenário
 
 Primeiramente iremos realizar a leitura da massa de dados extraindo assim os valores do dataset. Após termos lidos os dados, começa-se o processamento dos mesmos.
-A lógica consiste em separar as colunas em arquivos.csv únicos, sendo nomeados com o título da coluna em questão, como por exemplo demonstrando na figura a seguir:
+A lógica consiste em separar as colunas em arquivos.csv únicos, sendo nomeados com o título da coluna em questão.
 
 Colunas as quais apresentam somente dados numéricos não serão processadas pelo nosso sistema, pois como iremos realizar a rotulação dos dados, ou seja para cada elemento será atribuído um código de identificação para ele, sendo assim iremos nos referenciar a esse dados não mais por escrito, mas sim fazendo referência ao seu identificador. 
 
