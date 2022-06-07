@@ -12,5 +12,5 @@ Colunas as quais apresentam somente dados numéricos não serão processadas pel
 Após a separação em arquivos únicos e realizado a identificação dos elementos daquela coluna, iremos criar um novo arquivo final o qual iremos passar os ID's que foram atribuídos, tendo assim um banco de dados somente númerico.
 
 ## Integrantes
-Felipe Mathias May
+Felipe Mathias May,
 Geovanna de Oliveira Névola
